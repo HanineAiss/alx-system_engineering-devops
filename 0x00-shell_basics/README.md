@@ -11,3 +11,4 @@ Script "Bye bye My first directory" deletes the directory my_first_directory tha
 Script "Back to the future" changes the working directory to the previous one
 Script "Lists" lists all files (even ones with names beginning with a period character, which are normally hidden) in the current directory and the parent of the working directory and the /boot directory (in this order), in long format
 Script "File type" prints the type of the file named
+Script "We are symbols, and inhabit symbols" creates  a symbolic link to /bin/ls, named __ls__
